@@ -1,7 +1,9 @@
 LogisimCircuits
 ===============
 
-A series of logisim circuits completed for computer architecture. Includes rudimentary circuits that are comprised in an ALU and CPU.
+#A series of logisim circuits completed for computer architecture. Includes rudimentary circuits that are comprised in an ALU and CPU.
+
+======
 
 The following gif demonstrates an ALU circuit with a NOR, AND, and Addition unit.
 
@@ -10,5 +12,4 @@ To run each circuit, you must download the logisim software by ozark.
 
 
 
-Testing circuit made by professor Sean Davis at UCDavis. 
-ALU and addition unit made by Lucian Novosel and Sean Shojae. 
+__Testing circuit made by professor Sean Davis at UCDavis. ALU and addition unit made by Lucian Novosel and Sean Shojae.__
